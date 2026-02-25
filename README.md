@@ -9,9 +9,8 @@ Dicas construtivas são muito bem-vindas!
 <div align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/> </div>
 Contato: {
 
- 92 99484-5459
- felipe.back98@gmail.com
-
- https://www.linkedin.com/in/felipedylan
+ 📱 92 99484-5459
+📧 felipe.back98@gmail.com
+💼 https://www.linkedin.com/in/felipedylan
  
  }
