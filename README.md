@@ -1,16 +1,17 @@
-## Hi there 👋
+Oi, eu sou o Dylan :)
 
-<!--
-**FelipeDylanMar/FelipeDylanMar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou Desenvolvedor Fullstack com ênfase em React.js, com 4 anos de experiência atuando em diferentes projetos de desenvolvimento web e mobile.
 
-Here are some ideas to get you started:
+Aqui no meu GitHub você encontrará projetos que utilizo para demonstrar minhas habilidades técnicas, além de desafios que desenvolvi ao longo da minha trajetória.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Dicas construtivas são muito bem-vindas!
+
+🚀 Tecnologias que domino
+<div align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/> </div>
+Contato: {
+
+ 92 99484-5459
+ felipe.back98@gmail.com
+
+ https://www.linkedin.com/in/felipedylan
+ }
