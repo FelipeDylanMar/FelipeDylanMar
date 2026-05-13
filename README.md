@@ -12,5 +12,5 @@ Dicas construtivas são sempre bem-vindas.
 
 Contato:
 
-LinkedIn: linkedin.com/in/felipedylan
+LinkedIn: [linkedin.com/in/felipedylan](https://www.linkedin.com/in/felipedylan/)
 Email: felipe.back98@gmail.com
